@@ -1,0 +1,9 @@
+$ apt update
+$ apt upgrade
+$ apt install git
+$ git clone ( InLink )
+$ cd keyter
+$ mv -v keyprame.py /$HOME/
+$ mv -v keynmux.7z /$HOME/
+$ mv -v bwbe.txt /$HOME
+$ python keyprame.py
